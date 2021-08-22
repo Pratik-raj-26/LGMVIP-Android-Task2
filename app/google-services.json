@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588888983597",
+    "project_id": "face-detection-task2-lgm",
+    "storage_bucket": "face-detection-task2-lgm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588888983597:android:94225e559021fcfde5d0a4",
+        "android_client_info": {
+          "package_name": "com.example.task2lgmfirebasefacedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588888983597-25lbjp4152vk54nnd09pttbsr24fcfkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeKKigcAdhdY-N6NXK_oNAS0eZjAJ94QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588888983597-25lbjp4152vk54nnd09pttbsr24fcfkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
