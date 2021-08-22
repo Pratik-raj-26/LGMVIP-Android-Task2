@@ -1,1 +1,1 @@
-A face detector android App using machine learning kit on firebase using Java Language
+A Face Detection App using machine learning kit on firebase include only Java Language.
